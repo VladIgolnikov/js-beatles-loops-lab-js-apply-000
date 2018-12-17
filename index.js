@@ -1,4 +1,4 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
-  var musicians = []
+  var musicians = ['John Lennon', 'Paul ']
 }
